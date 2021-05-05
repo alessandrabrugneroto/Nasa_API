@@ -1,0 +1,50 @@
+   * {
+       margin: 0;
+       padding: 0;
+   }
+   
+   body {
+       background-image: url("img/nasa.jpg");
+       position: absolute;
+       background-repeat: no-repeat;
+       background-size: cover;
+       text-align: center;
+       font-size: 136%;
+       width: 105%;
+       margin-bottom: 150px;
+   }
+   
+   #date {
+       text-align: center;
+   }
+   
+   #frase {
+       background-color: white;
+       height: 30px;
+   }
+   
+   #title {
+       color: white;
+       font-size: 10px;
+   }
+   
+   #url {
+       width: 20px;
+       height: 20px;
+   }
+   
+   #foto {
+       display: flex;
+       justify-content: center;
+       border-color: azure;
+   }
+   
+   .imagem {
+       width: 400px;
+       height: 300px;
+       border-style: ridge;
+   }
+   
+   #date {
+       text-align: center;
+   }
